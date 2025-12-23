@@ -40,4 +40,4 @@ I utilized **Transfer Learning** to achieve high accuracy with minimal computati
 * **Edge Computing:** Convert the model to **TensorFlow Lite** for deployment on an agricultural robot.
 
 ---
-*Author: [Your Name]*
+*Author: Mary Oluropo*
